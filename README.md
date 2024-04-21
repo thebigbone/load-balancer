@@ -10,7 +10,7 @@
 - ```go run server.go -port 8081```
 - ```go run server.go -port 8082```
 
-### start a the load balancer
+### start the load balancer
 
 - cd balancer
 - ```go run balancer.go```
